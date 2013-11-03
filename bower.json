@@ -11,5 +11,9 @@
     "Manuel Baesler"
   ],
   "license": "AGPL3",
-  "homepage": "https://github.com/baslr/bower-jquery.uploader"
+  "homepage": "https://github.com/baslr/bower-jquery.uploader",
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "bootstrap": "~3.0.1"
+  }
 }
