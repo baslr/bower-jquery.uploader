@@ -1,0 +1,15 @@
+{
+  "name": "jquery.uploader",
+  "main": "index.js",
+  "version": "0.0.1",
+  "description": "html5 uploader",
+  "keywords": [
+    "uploader",
+    "html5"
+  ],
+  "authors": [
+    "Manuel Baesler"
+  ],
+  "license": "AGPL3",
+  "homepage": "https://github.com/baslr/bower-jquery.uploader"
+}
